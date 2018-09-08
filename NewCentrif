@@ -1,0 +1,26 @@
+Stat Qs:
+
+How to Randomly Sample?
+How is this normal?
+How do you detect if a new observation is outlier? What is bias-variance trade off ?
+Can you explain SVM to me?  
+1.Can you explain the Naive Bayes fundamentals? How did you set the threshold?
+2.Can you explain what MapReduce is and how it works?  
+
+Three friends in Seattle told you it's rainy. Each has a probability of 1/3 of lying. What's the probability of Seattle is rainy.  
+There are 6 marbles in a bag - 1 is white. You reach in the bag 100 times. After drawing a marble, it is placed back in the bag. What is the probability of drawing the white marble at least once?  
+How to compute an inverse matrix faster by playing around with some computational tricks?  
+How do you solve the L2-regularized regression problem?
+How to measure distance between data point?  
+Definition of variance  
+Explain the bias variance tradeoff,  
+Bayesian Logic
+The steps for data wrangling and cleaning before applying machine learning algorithms
+How to deal with unbalanced binary classification 
+Describe how gradient boost works.
+Generate a fair coin from a biased one. II) Generate 7 integers with equal probability from a function which returns 1/0 with probability p and (1-p).
+What are the ROC curve and the meaning of sensitivity, specificity, confusion matrix  
+Find max sum subsequence.  
+Standard question about Bayes formula. Ill people. Test. And you need to find different quantities of interest  
+Ask me to say what I now about logit  
+Explain Markov Chains to a 8 years old chilf  
