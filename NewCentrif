@@ -79,4 +79,79 @@ How many topic modeling techniques do you know of?
 Formulate LSI and LDA techniques.
 What are generative and discriminative algorithms? What are their strengths and weaknesses? Which type of algorithms are usually used and why?”
 
+ADOBE
 
+How would you design a recommendation system?
+Swap two integers without using a temporary variable.
+How to calculate the most frequently occurring entry on a large data set over different servers?
+From a given order table, describe the different data analysis that can be done.
+Write term frequency–inverse document frequency function.
+What is over fitting?
+What is the degree of freedom for lasso?
+Given two sorted arrays of integers, write a program to find a number from each array such that their sum are closest to some integer K.
+Check if an integer is a palindrome without converting the integer to a string.
+Generate all valid parentheses pairs from a string which contains parenthesis.
+Create confidence intervals for a large finite sampled population
+Describe Logit and Probit models and explain the difference between them.
+What is a correlation colored plot?
+Describe your any one of your research topics in detail and explain the difference between your methods and classic methods
+Explain the difference between Logistic Regression and Collaborative Filtering.
+
+Intel
+
+How to extract pre-defined knowledge points from texts?
+Given an array of integers, return indices of the two numbers such that they add up to a specific target.
+Describe the process to select the best model given two linear regression models for a particular problem.
+What is the Kimball methodology?
+Explain Eigen values.
+What is merge sort?
+What is HDFS? Explain the Pros and Cons of using HDFS.
+What is inner join and left join in SQL?
+What is linear regression?
+Given two string identify if they are anagrams
+Given two strings find the longest common sub-string
+How will you generate a password of given length with uniform distribution of uppercase, lowercase, special character and numbers in it?
+What is data normalization and why do we need it?
+What is 3rd normal form and why use it?
+What are the 3 types of fact tables?
+
+Zillow
+
+Implement a program to provide in real-time a list of the top 100 most viewed properties in the last hour. Properties are represented by a ‘zpid’ or Zillow property ID, which is a unique string.
+What do you think are the factors taken into consideration to calculate the Zestimate score?
+Describe an example of how you created a working predictive model in detail.
+Explain overfitting and describe what steps can be taken to reduce overfitting.
+In SVM why is there a need to maximize the margin between support vectors?
+Calculate the median absolute error and percent of estimates within 5%, 10% and 20% of the sales price of a property.
+Find N most frequently used 3-page sequences in a list of pages.
+Write a program to generate Fibonacci sequence.
+Given points on the Cartesian plane. Return the K points closest to the origin (0,0).
+Explain Euclidean distance.
+What are the different techniques to remove outliers?
+Describe a way to detect anomalies in a given dataset.
+Implement a KNN classifier
+How do you split your data between training and validation?
+Describe a model to analyze user’s browsing patterns on the Zillow website.
+
+Walmart
+
+What is the difference between Gradient Boosting and Random Forest?
+What are the different types of Sampling methods that you have used?
+Explain the difference between bagged and boosting models.
+What is cross entropy?
+What is multi-collinearity, how do you fix it in a regression?
+What is the significance of log odds?
+What is the relationship between sample size and margin of error?
+What are type I and II errors?
+What is F distribution?
+Define parametric and non-parametric methods. Give some examples.
+What are the data structures in Python? What are the data structures in the Pandas package in Python?
+What are generator, iterators, list comprehension in Python?
+Give some problems or scenarios where map-reduce concept works well and where it doesn’t work.
+How can you design a product recommendation system based on taxonomy?
+Given a dataset having employee id and manager id find the employees who are also managers ?
+A person is using search engine to find something, you know nothing about her/him, how do you come up with am algorithm that will predict what she/he needs after the user types only a few letters ?
+Print all the combinations in a binary tree. Use any language of your choice.
+Given a sheet of data provide explanations on how you would make analyses such as linear regression and decision trees.
+How would you deal with an older professional who consulted you but does not believe in your analytical results and sticks to his older methods?
+Write an algorithm to know if a String is palindrome using Linked list.
